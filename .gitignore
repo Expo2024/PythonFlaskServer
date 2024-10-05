@@ -1,0 +1,18 @@
+# Ignorar el entorno virtual
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos de configuración del sistema
+.DS_Store
+*.sqlite3
+
+# Ignorar archivos de entorno
+.env
+
+# Ignorar archivos de compilación de Python
+*.egg-info
+dist/
+build/
