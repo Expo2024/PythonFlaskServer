@@ -7,7 +7,6 @@ cloudinary.config(
     cloud_name = "dsf5jskjk",
     api_key = "172248515715777",
     api_secret = "RiQZVf2iukLHdmdMnk8za5jWpkE",
-    api_proxy = "https://proxy.server:3128"  # Asegúrate de usar el proxy correcto
 )
 
 
